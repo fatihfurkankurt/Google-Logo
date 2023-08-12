@@ -2,4 +2,4 @@
 
 I designed the Google logo using css language
 
-Link: https://fatihfurkankurt.github.io/Google-Logo/
+Link:https://fatihfurkankurt.github.io/google-logo/
